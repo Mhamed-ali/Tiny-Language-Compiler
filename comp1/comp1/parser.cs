@@ -189,7 +189,14 @@ namespace comp1
             Match("assi");
                 
             temp = new TreeNode(cod[point - 1]);
-            temp.Nodes.Add( cod[point - 2]);
+            try
+            {
+                temp.Nodes.Add(cod[point - 2]);
+            }
+            catch
+            {
+          //      throw new error(curenttoken,point,"")
+            }
             temp.Nodes.Add(exp());
             return temp;
 
@@ -346,8 +353,14 @@ namespace comp1
             else if (curenttoken == "identifier")
             {
                 Match("identifier");
-                temp = new TreeNode (cod[point - 1]);
-
+                try
+                { 
+                    temp = new TreeNode (cod[point - 1]);
+                }
+                catch
+                {
+                    throw new error(curenttoken, point + 1, "uncompleted");
+                }
 
             }
             else

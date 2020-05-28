@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections;
 using System.Linq;
-
-
+using System.Linq.Expressions;
+using System.Windows.Forms;
 
 namespace comp1
 {
@@ -291,6 +291,7 @@ namespace comp1
                                 i++;
                                 list1.Add(mytoken);
                                 list2.Add("identifier can't begin with number.");
+                                MessageBox.Show("identifier can't begin with number");
                                 goto err;
                             }
                         }

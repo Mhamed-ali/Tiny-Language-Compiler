@@ -10,6 +10,7 @@ namespace comp1
         string ls;
         string[] nl = { "" };
         string[] ni = { "" };
+        parser_window f2;
         public comp1()
         {
             InitializeComponent();
@@ -185,7 +186,17 @@ namespace comp1
 
         private void Button4_Click(object sender, EventArgs e)
         {
-            parser_window f2 = new parser_window();
+            if ((f2 == null))
+            {
+                f2 = new parser_window();
+            }
+            else
+            {
+                f2.Close();
+                f2 = new parser_window();
+
+            }
+
             f2.aa(ni, nl);
             f2.Show();
 
