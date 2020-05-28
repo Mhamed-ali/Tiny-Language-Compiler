@@ -1,0 +1,75 @@
+C:\Users\moham\source\repos\comp1\comp1\bin\Debug\comp1.exe.config
+C:\Users\moham\source\repos\comp1\comp1\bin\Debug\comp1.exe
+C:\Users\moham\source\repos\comp1\comp1\bin\Debug\comp1.pdb
+C:\Users\moham\source\repos\comp1\comp1\obj\Debug\comp1.csprojAssemblyReference.cache
+C:\Users\moham\source\repos\comp1\comp1\obj\Debug\comp1.Properties.Resources.resources
+C:\Users\moham\source\repos\comp1\comp1\obj\Debug\comp1.csproj.GenerateResource.cache
+C:\Users\moham\source\repos\comp1\comp1\obj\Debug\comp1.exe
+C:\Users\moham\source\repos\comp1\comp1\obj\Debug\comp1.pdb
+C:\Users\moham\source\repos\comp1\comp1\obj\Debug\comp1.comp1.resources
+C:\Users\moham\OneDrive\Desktop\New folder\p\comp1\comp1\bin\Debug\comp1.exe.config
+C:\Users\moham\OneDrive\Desktop\New folder\p\comp1\comp1\bin\Debug\comp1.exe
+C:\Users\moham\OneDrive\Desktop\New folder\p\comp1\comp1\bin\Debug\comp1.pdb
+C:\Users\moham\OneDrive\Desktop\New folder\p\comp1\comp1\obj\Debug\comp1.csprojAssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\New folder\p\comp1\comp1\obj\Debug\comp1.comp1.resources
+C:\Users\moham\OneDrive\Desktop\New folder\p\comp1\comp1\obj\Debug\comp1.Properties.Resources.resources
+C:\Users\moham\OneDrive\Desktop\New folder\p\comp1\comp1\obj\Debug\comp1.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\New folder\p\comp1\comp1\obj\Debug\comp1.exe
+C:\Users\moham\OneDrive\Desktop\New folder\p\comp1\comp1\obj\Debug\comp1.pdb
+I:\comp1\comp1\bin\Debug\comp1.exe.config
+I:\comp1\comp1\bin\Debug\comp1.exe
+I:\comp1\comp1\bin\Debug\comp1.pdb
+I:\comp1\comp1\obj\Debug\comp1.csprojAssemblyReference.cache
+I:\comp1\comp1\obj\Debug\comp1.comp1.resources
+I:\comp1\comp1\obj\Debug\comp1.Properties.Resources.resources
+I:\comp1\comp1\obj\Debug\comp1.csproj.GenerateResource.cache
+I:\comp1\comp1\obj\Debug\comp1.exe
+I:\comp1\comp1\obj\Debug\comp1.pdb
+C:\Users\moham\OneDrive\Desktop\comp1\comp1\bin\Debug\comp1.exe.config
+C:\Users\moham\OneDrive\Desktop\comp1\comp1\bin\Debug\comp1.exe
+C:\Users\moham\OneDrive\Desktop\comp1\comp1\bin\Debug\comp1.pdb
+C:\Users\moham\OneDrive\Desktop\comp1\comp1\obj\Debug\comp1.csprojAssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\comp1\comp1\obj\Debug\comp1.comp1.resources
+C:\Users\moham\OneDrive\Desktop\comp1\comp1\obj\Debug\comp1.Properties.Resources.resources
+C:\Users\moham\OneDrive\Desktop\comp1\comp1\obj\Debug\comp1.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\comp1\comp1\obj\Debug\comp1.exe
+C:\Users\moham\OneDrive\Desktop\comp1\comp1\obj\Debug\comp1.pdb
+C:\Users\moham\OneDrive\Desktop\pro\comp\comp1\comp1\obj\Debug\comp1.csprojAssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\pro\comp\comp1\comp1\obj\Debug\comp1.comp1.resources
+C:\Users\moham\OneDrive\Desktop\pro\comp\comp1\comp1\obj\Debug\comp1.Properties.Resources.resources
+C:\Users\moham\OneDrive\Desktop\pro\comp\comp1\comp1\obj\Debug\comp1.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\pro\comp\comp1\comp1\obj\Debug\comp1.exe
+C:\Users\moham\OneDrive\Desktop\pro\comp\comp1\comp1\obj\Debug\comp1.pdb
+C:\Users\Beshoy\Desktop\comp-master\comp1\comp1\bin\Debug\comp1.exe.config
+C:\Users\Beshoy\Desktop\comp-master\comp1\comp1\bin\Debug\comp1.exe
+C:\Users\Beshoy\Desktop\comp-master\comp1\comp1\bin\Debug\comp1.pdb
+C:\Users\Beshoy\Desktop\comp-master\comp1\comp1\obj\Debug\comp1.csprojAssemblyReference.cache
+C:\Users\Beshoy\Desktop\comp-master\comp1\comp1\obj\Debug\comp1.comp1.resources
+C:\Users\Beshoy\Desktop\comp-master\comp1\comp1\obj\Debug\comp1.Properties.Resources.resources
+C:\Users\Beshoy\Desktop\comp-master\comp1\comp1\obj\Debug\comp1.csproj.GenerateResource.cache
+C:\Users\Beshoy\Desktop\comp-master\comp1\comp1\obj\Debug\comp1.csproj.CoreCompileInputs.cache
+C:\Users\Beshoy\Desktop\comp-master\comp1\comp1\obj\Debug\comp1.exe
+C:\Users\Beshoy\Desktop\comp-master\comp1\comp1\obj\Debug\comp1.pdb
+C:\Users\Beshoy\Desktop\comp-master\comp1\comp1\obj\Debug\comp1.parser_window.resources
+C:\Users\moham\OneDrive\Desktop\comp-master\comp1\comp1\bin\Debug\comp1.exe.config
+C:\Users\moham\OneDrive\Desktop\comp-master\comp1\comp1\bin\Debug\comp1.exe
+C:\Users\moham\OneDrive\Desktop\comp-master\comp1\comp1\bin\Debug\comp1.pdb
+C:\Users\moham\OneDrive\Desktop\comp-master\comp1\comp1\obj\Debug\comp1.csprojAssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\comp-master\comp1\comp1\obj\Debug\comp1.comp1.resources
+C:\Users\moham\OneDrive\Desktop\comp-master\comp1\comp1\obj\Debug\comp1.parser_window.resources
+C:\Users\moham\OneDrive\Desktop\comp-master\comp1\comp1\obj\Debug\comp1.Properties.Resources.resources
+C:\Users\moham\OneDrive\Desktop\comp-master\comp1\comp1\obj\Debug\comp1.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\comp-master\comp1\comp1\obj\Debug\comp1.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\comp-master\comp1\comp1\obj\Debug\comp1.exe
+C:\Users\moham\OneDrive\Desktop\comp-master\comp1\comp1\obj\Debug\comp1.pdb
+C:\Users\moham\OneDrive\Desktop\comp2\comp1\comp1\bin\Debug\comp1.exe.config
+C:\Users\moham\OneDrive\Desktop\comp2\comp1\comp1\bin\Debug\comp1.exe
+C:\Users\moham\OneDrive\Desktop\comp2\comp1\comp1\bin\Debug\comp1.pdb
+C:\Users\moham\OneDrive\Desktop\comp2\comp1\comp1\obj\Debug\comp1.csprojAssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\comp2\comp1\comp1\obj\Debug\comp1.comp1.resources
+C:\Users\moham\OneDrive\Desktop\comp2\comp1\comp1\obj\Debug\comp1.parser_window.resources
+C:\Users\moham\OneDrive\Desktop\comp2\comp1\comp1\obj\Debug\comp1.Properties.Resources.resources
+C:\Users\moham\OneDrive\Desktop\comp2\comp1\comp1\obj\Debug\comp1.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\comp2\comp1\comp1\obj\Debug\comp1.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\comp2\comp1\comp1\obj\Debug\comp1.exe
+C:\Users\moham\OneDrive\Desktop\comp2\comp1\comp1\obj\Debug\comp1.pdb
