@@ -90,7 +90,7 @@ namespace comp1
             }
             catch
             {
-                throw new error(curenttoken, point);
+                throw new error(curenttoken, point, "stmt");
             }
             while (curenttoken == ";" && done ==false)
             {
@@ -131,7 +131,7 @@ namespace comp1
             }
             else
             {
-                throw new error(curenttoken, point);
+                throw new error(curenttoken, point,"\nexpect statmet");
 
             }
             return temp;
@@ -166,7 +166,7 @@ namespace comp1
             }
             else
             {
-                throw new error(curenttoken,point);
+                throw new error(curenttoken,point,"\nexpect end ");
             }
         }
         public TreeNode repeat_stmt()
@@ -250,7 +250,7 @@ namespace comp1
             }
             else
             {
-                throw new error(curenttoken,point);
+                throw new error(curenttoken,point, "expext comparison" );
 
             }
         }
@@ -288,7 +288,7 @@ namespace comp1
             }
             else
             {
-                throw new error(curenttoken, point);
+                throw new error(curenttoken, point, "\nexpect add op ");
 
             }
         }
@@ -325,7 +325,7 @@ namespace comp1
             }
             else
             {
-                throw new error(curenttoken, point);
+                throw new error(curenttoken, point, "\nexpect mul op");
             }
 
         }
@@ -352,7 +352,7 @@ namespace comp1
             }
             else
             {
-                throw new error(curenttoken, point);
+                throw new error(curenttoken, point,"\nexpect num,iden,exp");
 
             }
             return temp;

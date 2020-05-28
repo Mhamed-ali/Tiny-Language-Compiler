@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -16,15 +17,18 @@ namespace comp1
     {
         static string token;
         static int ponint;
-        public error(string s, int p)
+        static string ss;
+        public error(string s, int p,string s2)
         {
             token = s;
             ponint = p;
+            ss = s2;
+
         }
         public string tok()
         {
             int p = ponint + 1;
-            return (error.token + " at token" + p);
+            return (error.token + " at token" + p+ ss);
         }
     }
 }
